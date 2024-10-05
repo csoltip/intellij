@@ -9,4 +9,8 @@ public class Main {
     private int fv() {
         return 1;
     }
+
+    public void elj(){
+
+    }
 }
