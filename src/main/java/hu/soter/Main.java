@@ -11,6 +11,6 @@ public class Main {
     }
 
     public void elj(){
-
+        System.out.println();
     }
 }
