@@ -7,7 +7,7 @@ public class Main {
     }
 
     private int fv() {
-        return 1;
+        return 2;
     }
 
     public void elj(){
